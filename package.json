@@ -23,7 +23,7 @@
     "node": ">=4.2.1"
   },
   "devDependencies": {
-    "eslint": "^3.0.0",
+    "eslint": "^3.10.1",
     "npmpub": "^3.0.3",
     "tape": "^4.4.0"
   },
